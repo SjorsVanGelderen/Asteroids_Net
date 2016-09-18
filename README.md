@@ -1,2 +1,2 @@
 # Asteroids_Net
-Asteriods implementation in F# with basic networking
+Asteroids implementation in F# with basic networking
